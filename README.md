@@ -12,7 +12,7 @@
 
  
 # Requirements
-- Docker container: https://catalog.ngc.nvidia.com/orgs/nvidia/teams/dli/containers/dli-nano-ai must be properly set up. Use the latest tag.
+- Docker container: https://catalog.ngc.nvidia.com/orgs/nvidia/teams/dli/containers/dli-nano-ai must be properly set up on the Jetson Nano. Use the latest tag.
 - Jetson Nano with USB webcam.
 
 # How to use model
